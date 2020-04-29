@@ -1,0 +1,36 @@
+.drum-pad {
+  width: 25%;
+    height: 70px;
+}
+
+#display {
+  height: 50px;
+/*   border: 2px solid #01406e; */
+  color: white;
+  
+}
+.bg-custom {
+  background-color: #424240;
+}
+
+.bg-arith {
+background-color: #6b6b69;
+}
+
+#clear {
+  width: 50%;
+}
+button {
+  border: 1px solid black;
+  color: white;
+}
+
+#root {
+  width: 30%;
+  background-color: #000;
+}
+
+#equals {
+  
+  background-color: #01406e;
+}
